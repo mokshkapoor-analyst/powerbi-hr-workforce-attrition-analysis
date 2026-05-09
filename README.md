@@ -34,6 +34,10 @@ This project transforms raw HR employee data into actionable business insights u
 
 [Click Here to Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmMxZWQwYWQtNDdkNS00Yzc0LWE0M2ItYmIwZDczZWQxODRhIiwidCI6ImIwNWJjYjBjLWVlYjgtNDMyOC05NDNkLTE1ZmVkYTE3ODBkZiJ9)
 
+👉 **🎥 Project Demo:**  
+
+[Click Here to Open Video](https://www.linkedin.com/posts/moksh-kapoor-618495322_powerbi-dataanalytics-hranalytics-activity-7448227012047159296-73Wv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28)
+
 ---
 
 # 📁 Dataset Overview
